@@ -6,4 +6,4 @@
 </a>    
 
 <!-- <img src="https://github.com/yujin4sth00/yujin4sth00/blob/output/github-snake-dark.svg" width="100%"> -->
-<img src="https://github.com/yujin4sth00/yujin4sth00/blob/output/github-snake-dark.svg" width="100%">
+
